@@ -1314,7 +1314,7 @@ blockquote .person cite {
 table {  
     color: #333; /* Lighten up font color */
     font-family: Helvetica, Arial, sans-serif; /* Nicer font */
-    width: 640px; 
+    width: 400px; 
     border-collapse: 
     collapse; border-spacing: 0; 
 }
