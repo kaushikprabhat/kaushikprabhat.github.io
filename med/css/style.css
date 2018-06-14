@@ -523,7 +523,7 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 .work:hover .inner, .work:focus .inner {
-  opacity: 0.4;
+  opacity: 0.6;
 }
 .work:hover .desc h3 a, .work:focus .desc h3 a {
   color: #cabcab;
@@ -1329,4 +1329,7 @@ th {
 td {  
     background: #FAFAFA; /* Lighter grey background */
     text-align: left; /* Center our text */
+}
+div ol  a {
+  color:teal;font-size:24px;font-weight: bold;
 }
